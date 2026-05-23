@@ -1,0 +1,24 @@
+name: Deploy to XREA
+
+on:
+  push:
+    branches:
+      - main  # mainブランチにpushされた時に実行（masterブランチの場合はmasterに変更）
+
+jobs:
+  web-deploy:
+    name: FTP Deploy
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Get latest code
+      uses: actions/checkout@v4  # 最新のソースコードを取得
+
+    - name: Sync files to XREA
+      uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+      with:
+        server: '${{ secrets.FTP_SERVER }}'
+        username: '${{ secrets.FTP_USERNAME }}'
+        password: '${{ secrets.FTP_PASSWORD }}'
+        server-dir: public_html/game.morixxx.com/  # ★XREA側のアップロード先フォルダ（末尾に / が必要）
+        parallel: 1
