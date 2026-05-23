@@ -21,4 +21,3 @@ jobs:
         username: '${{ secrets.FTP_USERNAME }}'
         password: '${{ secrets.FTP_PASSWORD }}'
         server-dir: public_html/game.morixxx.com/  # ★XREA側のアップロード先フォルダ（末尾に / が必要）
-        parallel: 1
