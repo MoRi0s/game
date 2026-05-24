@@ -1,0 +1,120 @@
+/* ===== Game Page ===== */
+
+.game-container{
+  width: 100%;
+  max-width: 1100px;
+
+  margin: 0 auto;
+  padding: 40px 20px;
+
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
+  gap: 20px;
+}
+
+/* カード */
+.game-card{
+  background: rgba(255,255,255,0.04);
+
+  border: 1px solid rgba(255,255,255,0.08);
+  border-radius: 18px;
+
+  overflow: hidden;
+
+  backdrop-filter: blur(10px);
+
+  transition: 0.25s ease;
+}
+
+.game-card:hover{
+  transform: translateY(-6px);
+
+  background: rgba(37,99,235,0.12);
+
+  border-color: rgba(37,99,235,0.35);
+
+  box-shadow:
+    0 10px 30px rgba(0,0,0,0.35),
+    0 0 20px rgba(37,99,235,0.15);
+}
+
+/* 上半分クリック */
+.card-top{
+  cursor: pointer;
+}
+
+/* サムネ */
+.card-top img{
+  width: 100%;
+  aspect-ratio: 16 / 9;
+
+  object-fit: cover;
+
+  display: block;
+
+  transition: 0.3s ease;
+}
+
+.game-card:hover .card-top img{
+  transform: scale(1.03);
+}
+
+/* 下部分 */
+.card-bottom{
+  padding: 14px;
+  position: relative;
+  min-height: 130px;
+}
+
+/* タイトル */
+.game-title{
+  color: #fff;
+
+  font-size: 18px;
+  font-weight: bold;
+
+  margin-bottom: 8px;
+}
+
+/* 説明 */
+.game-comment{
+  color: rgba(255,255,255,0.75);
+
+  font-size: 13px;
+  line-height: 1.5;
+
+  margin-bottom: 28px;
+
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+
+  overflow: hidden;
+}
+
+/* 公開日 */
+.game-date{
+  position: absolute;
+
+  right: 14px;
+  bottom: 12px;
+
+  text-align: right;
+
+  font-size: 11px;
+  color: rgba(255,255,255,0.55);
+}
+
+/* スマホ */
+@media (max-width: 768px){
+
+  .game-container{
+    padding: 20px 12px;
+    gap: 14px;
+  }
+
+  .game-title{
+    font-size: 16px;
+  }
+
+}
