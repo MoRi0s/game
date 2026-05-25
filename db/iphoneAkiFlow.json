@@ -707,7 +707,7 @@
 "iphone11proseries": {
   "question": "画面のサイズは？",
   "image": "",
-  "span": "機種名にPlusがついている→大きい",
+  "span": "機種名にMaxがついている→大きい",
   "credit": "",
   "options": {
     "普通": "iphone11pro",
@@ -948,7 +948,7 @@
 "iphone14proseries": {
   "question": "画面のサイズは？",
   "image": "",
-  "span": "機種名にPlusがついている→大きい",
+  "span": "機種名にMaxがついている→大きい",
   "credit": "",
   "options": {
     "普通": "iphone14pro",
@@ -959,7 +959,7 @@
 "iphone15proseries": {
   "question": "画面のサイズは？",
   "image": "",
-  "span": "機種名にPlusがついている→大きい",
+  "span": "機種名にMaxがついている→大きい",
   "credit": "",
   "options": {
     "普通": "iphone15pro",
@@ -970,7 +970,7 @@
 "iphone16proseries": {
   "question": "画面のサイズは？",
   "image": "",
-  "span": "機種名にPlusがついている→大きい",
+  "span": "機種名にMaxがついている→大きい",
   "credit": "",
   "options": {
     "普通": "iphone16pro",
@@ -981,7 +981,7 @@
 "iphone17proseries": {
   "question": "画面のサイズは？",
   "image": "",
-  "span": "機種名にPlusがついている→大きい",
+  "span": "機種名にMaxがついている→大きい",
   "credit": "",
   "options": {
     "普通": "iphone17pro",
@@ -1003,7 +1003,7 @@
 "iphone13proseries": {
   "question": "画面のサイズは？",
   "image": "",
-  "span": "機種名にPlusがついている→大きい",
+  "span": "機種名にMaxがついている→大きい",
   "credit": "",
   "options": {
     "普通": "iphone13pro",
@@ -1014,7 +1014,7 @@
 "iphone12proseries": {
   "question": "画面のサイズは？",
   "image": "",
-  "span": "機種名にPlusがついている→大きい",
+  "span": "機種名にMaxがついている→大きい",
   "credit": "",
   "options": {
     "普通": "iphone12pro",
