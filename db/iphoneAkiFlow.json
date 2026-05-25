@@ -740,7 +740,7 @@
 "xs_size": {
   "question": "画面のサイズは？",
   "image": "",
-  "span": "機種名にPlusがついている→大きい",
+  "span": "機種名にMaxがついている→大きい",
   "credit": "",
   "options": {
     "普通": "iphoneXs",
