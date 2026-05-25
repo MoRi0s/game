@@ -1,0 +1,330 @@
+body{
+  margin: 0;
+
+  padding-top: 120px;
+  text-align: center;
+
+
+  color: white;
+
+  font-family:
+    -apple-system,
+    BlinkMacSystemFont,
+    sans-serif;
+
+  min-height: 100vh;
+
+  box-sizing: border-box;
+}
+
+
+.aki-container{
+  width: calc(100% - 40px);
+  max-width: 550px;
+  margin: 40px auto;
+
+  background:
+    rgba(255,255,255,0.05);
+
+  border:
+    1px solid rgba(255,255,255,0.08);
+
+  border-radius: 24px;
+
+  padding: 30px;
+
+  backdrop-filter: blur(14px);
+
+  text-align: center;
+
+  box-sizing: border-box;
+}
+
+.start-title{
+  font-size: 34px;
+
+  font-weight: bold;
+
+  margin-bottom: 20px;
+}
+
+.start-text{
+  font-size: 18px;
+
+  line-height: 1.8;
+
+  color:
+    rgba(255,255,255,0.8);
+
+  margin-bottom: 30px;
+}
+
+.start-btn{
+  border: none;
+
+  border-radius: 16px;
+
+  padding: 16px 24px;
+
+  font-size: 18px;
+
+  cursor: pointer;
+
+  color: white;
+
+  background:
+    linear-gradient(
+      135deg,
+      #2563eb,
+      #60a5fa
+    );
+
+  transition: 0.2s;
+}
+
+.start-btn:hover{
+  transform: translateY(-2px);
+
+  filter: brightness(1.1);
+}
+
+.aki-title{
+  margin-top: 0;
+
+  font-size: 32px;
+}
+
+
+#aki-image{
+  width: 100%;
+  max-width: 280px;
+
+  max-height: 320px;
+
+  object-fit: contain;
+
+  display: block;
+
+  margin:
+    0 auto 25px;
+
+  border-radius: 20px;
+
+  border:
+    3px solid rgba(255,255,255,0.15);
+
+  background:
+    rgba(255,255,255,0.04);
+
+  padding: 10px;
+
+  box-shadow:
+    0 10px 30px rgba(0,0,0,0.35);
+}
+
+@media (min-width: 769px){
+
+  .aki-container{
+    display: flex;
+
+    flex-direction: row-reverse;
+
+    align-items: center;
+
+    gap: 40px;
+
+    max-width: 1000px;
+  }
+
+  #aki-image{
+    width: 320px;
+
+    max-width: 320px;
+
+    margin: 0;
+
+    flex-shrink: 0;
+  }
+
+  .aki-content{
+    flex: 1;
+  }
+
+}
+
+
+
+.aki-title{
+  display: flex;
+
+  align-items: center;
+  justify-content: center;
+
+  gap: 10px;
+
+  font-size: 36px;
+  
+}
+
+.apple-logo{
+  width: 34px;
+  height: 34px;
+
+  filter:
+    brightness(0)
+    invert(1);
+}
+
+
+#question{
+  margin: 30px 0;
+
+  font-size: 22px;
+
+  line-height: 1.6;
+}
+
+#buttons{
+  display: flex;
+  flex-direction: column;
+
+  gap: 12px;
+}
+
+.aki-btn,
+.restart-btn{
+  border: none;
+
+  border-radius: 14px;
+
+  padding: 14px;
+
+  font-size: 16px;
+
+  cursor: pointer;
+
+  background:
+    linear-gradient(
+      135deg,
+      #2563eb,
+      #3b82f6
+    );
+
+  color: white;
+
+  transition: 0.2s ease;
+}
+
+.aki-btn:hover,
+.restart-btn:hover{
+  transform: translateY(-2px);
+
+  filter: brightness(1.1);
+}
+
+.result{
+  font-size: 28px;
+
+  font-weight: bold;
+
+  line-height: 1.6;
+}
+
+@media (max-width: 768px){
+
+  .aki-title{
+    font-size: 26px;
+  }
+
+  #question{
+    font-size: 18px;
+  }
+
+}
+
+.result-comment{
+  margin-top: 20px;
+
+  font-size: 15px;
+  line-height: 1.7;
+
+  color:
+    rgba(255,255,255,0.75);
+}
+
+.success-message{
+  line-height: 1.8;
+
+  font-size: 22px;
+}
+
+.success-message strong{
+  font-size: 32px;
+
+  color: #7db7ff;
+}
+
+.othergame-btn{
+  border: none;
+
+  border-radius: 14px;
+
+  padding: 14px;
+
+  font-size: 16px;
+
+  cursor: pointer;
+
+  background:
+    linear-gradient(
+      135deg,
+      #9333ea,
+      #c084fc
+    );
+
+  color: white;
+
+  transition: 0.2s ease;
+
+  margin-top: 10px;
+}
+
+.othergame-btn:hover{
+  transform: translateY(-2px);
+
+  filter: brightness(1.1);
+}
+
+.image-span{
+  margin-top: 10px;
+
+  font-size: 20px;
+
+  line-height: 1.6;
+
+  color:
+    rgba(255,255,255,0.75);
+
+  text-align: center;
+
+  display: none;
+}
+
+.image-credit{
+  margin-top: 4px;
+
+  font-size: 11px;
+
+  color:
+    rgba(255,255,255,0.45);
+
+  text-align: center;
+
+  display: none;
+}
+
+.invert{
+  filter:
+    brightness(0)
+    invert(1);
+}

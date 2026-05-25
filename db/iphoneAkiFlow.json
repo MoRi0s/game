@@ -1,0 +1,1065 @@
+{
+  "start": "home_button",
+  "states": {
+
+"iphone1":{
+  "result":"iPhone（初代）",
+  "image":"/pic/iphone/model/iphone1.png",
+  "span":"iPhone（初代）",
+  "credit":"© Rafael Fernandez (From Wikipedia)/CC BY-SA 4.0",
+  "comment":""
+},
+
+"iphone3g":{
+  "result":"iPhone 3G",
+  "image":"/pic/iphone/model/iphone3g.png",
+  "span":"iPhone 3G",
+  "credit":"© Rafael Fernandez (From Wikipedia)/CC BY-SA 4.0",
+  "comment":""
+},
+
+"iphone3gs":{
+  "result":"iPhone 3GS",
+  "image":"/pic/iphone/model/iphone3g.png",
+  "span":"iPhone 3GS",
+  "credit":"© Rafael Fernandez (From Wikipedia)/CC BY-SA 4.0",
+  "comment":""
+},
+
+"iphone4":{
+  "result":"iPhone 4",
+  "image":"/pic/iphone/model/iphone4.png",
+  "span":"iPhone 4",
+  "credit":"© Rafael Fernandez (From Wikipedia)/CC BY-SA 4.0",
+  "comment":""
+},
+
+"iphone4s":{
+  "result":"iPhone 4S",
+  "image":"/pic/iphone/model/iphone4s.png",
+  "span":"iPhone 4S",
+  "credit":"© Rafael Fernandez (From Wikipedia)/CC BY-SA 4.0",
+  "comment":""
+},
+
+"iphone5":{
+  "result":"iPhone 5",
+  "image":"/pic/iphone/model/iphone5.png",
+  "span":"iPhone 5",
+  "credit":"© Rafael Fernandez (From Wikipedia)/CC BY-SA 4.0",
+  "comment":""
+},
+
+"iphone5c":{
+  "result":"iPhone 5c",
+  "image":"/pic/iphone/model/iphone5c.png",
+  "span":"iPhone 5c",
+  "credit":"© Rafael Fernandez (From Wikipedia)/CC BY-SA 4.0",
+  "comment":""
+},
+
+"iphone5s":{
+  "result":"iPhone 5s",
+  "image":"/pic/iphone/model/iphone5s.png",
+  "span":"iPhone 5s",
+  "credit":"© Rafael Fernandez (From Wikipedia)/CC BY-SA 4.0",
+  "comment":""
+},
+
+"iphonese1":{
+  "result":"iPhone SE (第1世代)",
+  "image":"/pic/iphone/model/iphonese1.png",
+  "span":"iPhone SE (第1世代)",
+  "credit":"© Rafael Fernandez (From Wikipedia)/CC BY-SA 4.0",
+  "comment":""
+},
+
+"iphone6":{
+  "result":"iPhone 6",
+  "image":"/pic/iphone/model/iphone6.png",
+  "span":"iPhone 6",
+  "credit":"© Rafael Fernandez (From Wikipedia)/CC BY-SA 4.0",
+  "comment":""
+},
+
+"iphone6plus":{
+  "result":"iPhone 6 Plus",
+  "image":"/pic/iphone/model/iphone6plus.png",
+  "span":"iPhone 6 Plus",
+  "credit":"© Rafael Fernandez (From Wikipedia)/CC BY-SA 4.0",
+  "comment":""
+},
+
+"iphone6s":{
+  "result":"iPhone 6s",
+  "image":"/pic/iphone/model/iphone6s.png",
+  "span":"iPhone 6s",
+  "credit":"© Rafael Fernandez (From Wikipedia)/CC BY-SA 4.0",
+  "comment":""
+},
+
+"iphone6splus":{
+  "result":"iPhone 6s Plus",
+  "image":"/pic/iphone/model/iphone6splus.png",
+  "span":"iPhone 6s Plus",
+  "credit":"© Rafael Fernandez (From Wikipedia)/CC BY-SA 4.0",
+  "comment":""
+},
+
+"iphone7":{
+  "result":"iPhone 7",
+  "image":"/pic/iphone/model/iphone7.png",
+  "span":"iPhone 7",
+  "credit":"© Rafael Fernandez (From Wikipedia)/CC BY-SA 4.0",
+  "comment":""
+},
+
+"iphone7plus":{
+  "result":"iPhone 7 Plus",
+  "image":"/pic/iphone/model/iphone7plus.png",
+  "span":"iPhone 7 Plus",
+  "credit":"© Rafael Fernandez (From Wikipedia)/CC BY-SA 4.0",
+  "comment":""
+},
+
+"iphone8":{
+  "result":"iPhone 8",
+  "image":"/pic/iphone/model/iphone8.png",
+  "span":"iPhone 8",
+  "credit":"© Rafael Fernandez (From Wikipedia)/CC BY-SA 4.0",
+  "comment":""
+},
+
+"iphone8plus":{
+  "result":"iPhone 8 Plus",
+  "image":"/pic/iphone/model/iphone8plus.png",
+  "span":"iPhone 8 Plus",
+  "credit":"© Rafael Fernandez (From Wikipedia)/CC BY-SA 4.0",
+  "comment":""
+},
+
+"iphoneX":{
+  "result":"iPhone X",
+  "image":"/pic/iphone/model/iphoneX.png",
+  "span":"iPhone X",
+  "credit":"© Rafael Fernandez (From Wikipedia)/CC BY-SA 4.0",
+  "comment":""
+},
+
+"iphoneXs":{
+  "result":"iPhone Xs",
+  "image":"/pic/iphone/model/iphoneXs.png",
+  "span":"iPhone Xs",
+  "credit":"© Rafael Fernandez (From Wikipedia)/CC BY-SA 4.0",
+  "comment":""
+},
+
+"iphoneXsmax":{
+  "result":"iPhone Xs Max",
+  "image":"/pic/iphone/model/iphoneXs.png",
+  "span":"iPhone Xs Max",
+  "credit":"© Rafael Fernandez (From Wikipedia)/CC BY-SA 4.0",
+  "comment":""
+},
+
+"iphoneXR":{
+  "result":"iPhone XR",
+  "image":"/pic/iphone/model/iphoneXR.png",
+  "span":"iPhone XR",
+  "credit":"© Rafael Fernandez (From Wikipedia)/CC BY-SA 4.0",
+  "comment":""
+},
+
+"iphone11":{
+  "result":"iPhone 11",
+  "image":"/pic/iphone/model/iphone11.png",
+  "span":"iPhone 11",
+  "credit":"© Rafael Fernandez (From Wikipedia)/CC BY-SA 4.0",
+  "comment":""
+},
+
+"iphone11pro":{
+  "result":"iPhone 11 Pro",
+  "image":"/pic/iphone/model/iphone11pro.png",
+  "span":"iPhone 11 Pro",
+  "credit":"© Rafael Fernandez (From Wikipedia)/CC BY-SA 4.0",
+  "comment":""
+},
+
+"iphone11promax":{
+  "result":"iPhone 11 Pro Max",
+  "image":"/pic/iphone/model/iphone11pro.png",
+  "span":"iPhone 11 Pro Max",
+  "credit":"© Rafael Fernandez (From Wikipedia)/CC BY-SA 4.0",
+  "comment":""
+},
+
+"iphonese2":{
+  "result":"iPhone SE (第2世代)",
+  "image":"/pic/iphone/model/iphonese2.png",
+  "span":"iPhone SE (第2世代)",
+  "credit":"© Rafael Fernandez (From Wikipedia)/CC BY-SA 4.0",
+  "comment":""
+},
+
+"iphone12":{
+  "result":"iPhone 12",
+  "image":"/pic/iphone/model/iphone12.png",
+  "span":"iPhone 12",
+  "credit":"© Rafael Fernandez (From Wikipedia)/CC BY-SA 4.0",
+  "comment":""
+},
+
+"iphone12mini":{
+  "result":"iPhone 12 mini",
+  "image":"/pic/iphone/model/iphone12.png",
+  "span":"iPhone 12 mini",
+  "credit":"© Rafael Fernandez (From Wikipedia)/CC BY-SA 4.0",
+  "comment":""
+},
+
+"iphone12pro":{
+  "result":"iPhone 12 Pro",
+  "image":"/pic/iphone/model/iphone12pro.png",
+  "span":"iPhone 12 Pro",
+  "credit":"© Rafael Fernandez (From Wikipedia)/CC BY-SA 4.0",
+  "comment":""
+},
+
+"iphone12promax":{
+  "result":"iPhone 12 Pro Max",
+  "image":"/pic/iphone/model/iphone12pro.png",
+  "span":"iPhone 12 Pro Max",
+  "credit":"© Rafael Fernandez (From Wikipedia)/CC BY-SA 4.0",
+  "comment":""
+},
+
+"iphone13":{
+  "result":"iPhone 13",
+  "image":"/pic/iphone/model/iphone13.png",
+  "span":"iPhone 13",
+  "credit":"© Rafael Fernandez (From Wikipedia)/CC BY-SA 4.0",
+  "comment":""
+},
+
+"iphone13mini":{
+  "result":"iPhone 13 mini",
+  "image":"/pic/iphone/model/iphone13.png",
+  "span":"iPhone 13 mini",
+  "credit":"© Rafael Fernandez (From Wikipedia)/CC BY-SA 4.0",
+  "comment":""
+},
+
+"iphone13pro":{
+  "result":"iPhone 13 Pro",
+  "image":"/pic/iphone/model/iphone13pro.png",
+  "span":"iPhone 13 Pro",
+  "credit":"© Rafael Fernandez (From Wikipedia)/CC BY-SA 4.0",
+  "comment":""
+},
+
+"iphone13promax":{
+  "result":"iPhone 13 Pro Max",
+  "image":"/pic/iphone/model/iphone13pro.png",
+  "span":"iPhone 13 Pro Max",
+  "credit":"© Rafael Fernandez (From Wikipedia)/CC BY-SA 4.0",
+  "comment":""
+},
+
+"iphonese3":{
+  "result":"iPhone SE (第3世代)",
+  "image":"/pic/iphone/model/iphonese3.png",
+  "span":"iPhone SE (第3世代)",
+  "credit":"© Rafael Fernandez (From Wikipedia)/CC BY-SA 4.0",
+  "comment":""
+},
+
+"iphone14":{
+  "result":"iPhone 14",
+  "image":"/pic/iphone/model/iphone14.png",
+  "span":"iPhone 14",
+  "credit":"© Rafael Fernandez (From Wikipedia)/CC BY-SA 4.0",
+  "comment":""
+},
+
+"iphone14plus":{
+  "result":"iPhone 14 Plus",
+  "image":"/pic/iphone/model/iphone14.png",
+  "span":"iPhone 14 Plus",
+  "credit":"© Rafael Fernandez (From Wikipedia)/CC BY-SA 4.0",
+  "comment":""
+},
+
+"iphone14pro":{
+  "result":"iPhone 14 Pro",
+  "image":"/pic/iphone/model/iphone14pro.png",
+  "span":"iPhone 14 Pro",
+  "credit":"© Rafael Fernandez (From Wikipedia)/CC BY-SA 4.0",
+  "comment":""
+},
+
+"iphone14promax":{
+  "result":"iPhone 14 Pro Max",
+  "image":"/pic/iphone/model/iphone14pro.png",
+  "span":"iPhone 14 Pro Max",
+  "credit":"© Rafael Fernandez (From Wikipedia)/CC BY-SA 4.0",
+  "comment":""
+},
+"iphone15":{
+  "result":"iPhone 15",
+  "image":"/pic/iphone/model/iphone15.png",
+  "span":"iPhone 15",
+  "credit":"© Rafael Fernandez (From Wikipedia)/CC BY-SA 4.0",
+  "comment":""
+},
+
+"iphone15plus":{
+  "result":"iPhone 15 Plus",
+  "image":"/pic/iphone/model/iphone15.png",
+  "span":"iPhone 15 Plus",
+  "credit":"© Rafael Fernandez (From Wikipedia)/CC BY-SA 4.0",
+  "comment":""
+},
+
+"iphone15pro":{
+  "result":"iPhone 15 Pro",
+  "image":"/pic/iphone/model/iphone15pro.png",
+  "span":"iPhone 15 Pro",
+  "credit":"© Rafael Fernandez (From Wikipedia)/CC BY-SA 4.0",
+  "comment":""
+},
+
+"iphone15promax":{
+  "result":"iPhone 15 Pro Max",
+  "image":"/pic/iphone/model/iphone15pro.png",
+  "span":"iPhone 15 Pro Max",
+  "credit":"© Rafael Fernandez (From Wikipedia)/CC BY-SA 4.0",
+  "comment":""
+},
+
+"iphone16":{
+  "result":"iPhone 16",
+  "image":"/pic/iphone/model/iphone16.png",
+  "span":"iPhone 16",
+  "credit":"© Rafael Fernandez (From Wikipedia)/CC BY-SA 4.0",
+  "comment":""
+},
+
+"iphone16plus":{
+  "result":"iPhone 16 Plus",
+  "image":"/pic/iphone/model/iphone16.png",
+  "span":"iPhone 16 Plus",
+  "credit":"© Rafael Fernandez (From Wikipedia)/CC BY-SA 4.0",
+  "comment":""
+},
+
+"iphone16pro":{
+  "result":"iPhone 16 Pro",
+  "image":"/pic/iphone/model/iphone16pro.png",
+  "span":"iPhone 16 Pro",
+  "credit":"© Rafael Fernandez (From Wikipedia)/CC BY-SA 4.0",
+  "comment":""
+},
+
+"iphone16promax":{
+  "result":"iPhone 16 Pro Max",
+  "image":"/pic/iphone/model/iphone16pro.png",
+  "span":"iPhone 16 Pro Max",
+  "credit":"© Rafael Fernandez (From Wikipedia)/CC BY-SA 4.0",
+  "comment":""
+},
+
+"iphone16e":{
+  "result":"iPhone 16e",
+  "image":"/pic/iphone/model/iphone16e.png",
+  "span":"iPhone 16e",
+  "credit":"© Rafael Fernandez (From Wikipedia)/CC BY-SA 4.0",
+  "comment":""
+},
+
+"iphone17":{
+  "result":"iPhone 17",
+  "image":"/pic/iphone/model/iphone17.png",
+  "span":"iPhone 17",
+  "credit":"© Rafael Fernandez (From Wikipedia)/CC BY-SA 4.0",
+  "comment":""
+},
+
+"iphoneair":{
+  "result":"iPhone Air",
+  "image":"/pic/iphone/model/iphoneair.png",
+  "span":"iPhone Air",
+  "credit":"© Rafael Fernandez (From Wikipedia)/CC BY-SA 4.0",
+  "comment":""
+},
+
+"iphone17pro":{
+  "result":"iPhone 17 Pro",
+  "image":"/pic/iphone/model/iphone17pro.png",
+  "span":"iPhone 17 Pro",
+  "credit":"© Rafael Fernandez (From Wikipedia)/CC BY-SA 4.0",
+  "comment":""
+},
+
+"iphone17promax":{
+  "result":"iPhone 17 Pro Max",
+  "image":"/pic/iphone/model/iphone17pro.png",
+  "span":"iPhone 17 Pro Max",
+  "credit":"© Rafael Fernandez (From Wikipedia)/CC BY-SA 4.0",
+  "comment":""
+},
+
+"iphone17e":{
+  "result":"iPhone 17e",
+  "image":"/pic/iphone/model/iphone17e.png",
+  "span":"iPhone 17e",
+  "credit":"© Rafael Fernandez (From Wikipedia)/CC BY-SA 4.0",
+  "comment":""
+},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"home_button": {
+  "question": "ホームボタンはある？",
+  "image": "/pic/iphone/homebutton.jpg",
+  "span": "画面下の丸いボタン",
+  "credit": "© MoRi",
+  "options": {
+    "はい": "power_top",
+    "いいえ": "curved_side"
+  }
+},
+
+"power_top": {
+  "question": "電源ボタンが上部にある？",
+  "image": "/pic/iphone/top_button.jpg",
+  "span": "上部の電源ボタン",
+  "credit": "© MoRi",
+  "options": {
+    "はい": "touch_id",
+    "いいえ": "glass_back"
+  }
+},
+
+"touch_id": {
+  "question": "Touch IDはある？",
+  "image": "/pic/iphone/homebutton.jpg",
+  "span": "指紋認証が使えるかどうか",
+  "credit": "© MoRi",
+  "options": {
+    "はい": "has_se_logo",
+    "いいえ": "two_tone_back"
+  }
+},
+
+"has_se_logo": {
+  "question": "背面にSEと書いてある？",
+  "image": "/pic/iphone/SE.png",
+  "span": "右側のSEロゴがあるかどうか",
+  "credit": "",
+  "invert": "true",
+  "options": {
+    "はい": "iphonese1",
+    "いいえ": "iphone5s"
+  }
+},
+
+"two_tone_back": {
+  "question": "背面は上下の帯とアルミのツートーン？",
+  "image": "/pic/iphone/twotone.jpg",
+  "span": "こういうデザイン",
+  "credit": "Images © Apple Inc.",
+  "options": {
+    "はい": "iphone5",
+    "いいえ": "colorful_back"
+  }
+},
+
+"colorful_back": {
+  "question": "背面のカラーが白、赤、黄、青、緑で背面の角が少し落ちてる？",
+  "image": "/pic/iphone/5c.jpg",
+  "span": "こういうデザイン",
+  "credit": "Images © Apple Inc.",
+  "options": {
+    "はい": "iphone5c",
+    "いいえ": "flat_glass_early"
+  }
+},
+
+"flat_glass_early": {
+  "question": "背面と側面が平ら？",
+  "image": "/pic/iphone/iphonesesokumen.png",
+  "span": "背面が膨らんでおらず、側面も角ばっている(画像はiPhoneSE)",
+  "credit": "© MoRi",
+  "options": {
+    "はい": "side_lines",
+    "いいえ": "black_bottom"
+  }
+},
+
+"side_lines": {
+  "question": "両サイドに2本ずつ線がある？",
+  "image": "/pic/iphone/4s.jpg",
+  "span": "側面の黒線の本数（画像は2本）",
+  "credit": "Images © Apple Inc.",
+  "options": {
+    "はい": "iphone4s",
+    "いいえ": "iphone4"
+  }
+},
+
+"black_bottom": {
+  "question": "背面の下側が黒い？",
+  "image": "/pic/iphone/blackbottom.jpg",
+  "span": "こういうiPhone",
+  "credit": "Robert Scoble from Half Moon Bay(From Wikipedia), CC/表示 2.0",
+  "options": {
+    "はい": "iphone1",
+    "いいえ": "engraving_gloss"
+  }
+},
+
+"engraving_gloss": {
+  "question": "背面のiPhone刻印に光沢がある？",
+  "image": "/pic/iphone/iphone3gor3gs.jpg",
+  "span": "右側の方は光沢がある。",
+  "credit": "gillyberlin(From Wikipedia)/CC 表示 2.0",
+  "options": {
+    "はい": "iphone3gs",
+    "いいえ": "iphone3g"
+  }
+},
+
+"glass_back": {
+  "question": "背面がガラスでワイヤレス充電対応？",
+  "image": "/pic/iphone/8.jpg",
+  "span": "背面がつるつるしていて、ワイヤレス充電ができるか",
+  "credit": "Images © Apple Inc.",
+  "options": {
+    "はい": "apple_center",
+    "いいえ": "antenna_lines"
+  }
+},
+
+"apple_center": {
+  "question": "背面のりんごマークが中央にある？",
+  "image": "/pic/iphone/8se.jpg",
+  "span": "右のiPhoneはリンゴマークが中央。",
+  "credit": "© MoRi",
+  "options": {
+    "はい": "supports_5g",
+    "いいえ": "dual_camera_8"
+  }
+},
+
+"supports_5g": {
+  "question": "5Gに対応している？",
+  "image": "/pic/iphone/5g.png",
+  "span": "iPhoneの5G",
+  "credit": "© MoRi",
+  "options": {
+    "はい": "iphonese3",
+    "いいえ": "iphonese2"
+  }
+},
+
+"dual_camera_8": {
+  "question": "背面カメラは2つ？",
+  "image": "/pic/iphone/8.jpg",
+  "span": "左側だけ背面カメラが２つ",
+  "credit": "Images © Apple Inc.",
+  "options": {
+    "はい": "iphone8plus",
+    "いいえ": "iphone8"
+  }
+},
+
+"antenna_lines": {
+  "question": "背面の上と下に2本ずつ、計4本の線がある？",
+  "image": "/pic/iphone/67.jpg",
+  "span": "左側の線は4本、右側は2本。",
+  "credit": "© MoRi",
+  "options": {
+    "はい": "has_s_logo",
+    "いいえ": "dual_camera_7"
+  }
+},
+
+"has_s_logo": {
+  "question": "背面にSと書かれたマークがありIMEIが書いてない？",
+  "image": "/pic/iphone/iPhone6slogo.png",
+  "span": "右のSロゴが背面にあるかどうか",
+  "credit": "Images © Apple Inc.",
+  "invert": "true",
+  "options": {
+    "はい": "size_6s",
+    "いいえ": "size_6"
+  }
+},
+
+"size_6s": {
+  "question": "画面のサイズは？",
+  "image": "",
+  "span": "機種名にPlusがついている→大きい",
+  "credit": "",
+  "options": {
+    "普通": "iphone6s",
+    "大きい": "iphone6splus"
+  }
+},
+
+"size_6": {
+  "question": "画面のサイズは？",
+  "image": "",
+  "span": "機種名にPlusがついている→大きい",
+  "credit": "",
+  "options": {
+    "普通": "iphone6",
+    "大きい": "iphone6plus"
+  }
+},
+
+"dual_camera_7": {
+  "question": "背面カメラは2つ？",
+  "image": "/pic/iphone/7p.png",
+  "span": "波面カメラが2つある機種。",
+  "credit": "Images © Apple Inc.",
+  "options": {
+    "はい": "iphone7plus",
+    "いいえ": "iphone7"
+  }
+},
+
+
+
+
+"curved_side": {
+  "question": "側面が丸い？",
+  "image": "/pic/iphone/X.jpg",
+  "span": "側面が丸く膨らんでいる。",
+  "credit": "Images © Apple Inc.",
+  "options": {
+    "はい": "rounded_camera_count",
+    "いいえ": "flat_camera_count"
+  }
+},
+
+"rounded_camera_count": {
+  "question": "背面カメラは1つ？",
+  "image": "/pic/iphone/xr.jpg",
+  "span": "背面カメラが1つの機種。",
+  "credit": "Images © Apple Inc.",
+  "options": {
+    "はい": "iphoneXR",
+    "いいえ": "two_camera_rounded"
+  }
+},
+
+"two_camera_rounded": {
+  "question": "背面カメラは2つ？",
+  "image": "/pic/iphone/11.jpg",
+  "span": "背面カメラが2つの機種。",
+  "credit": "Images © Apple Inc.",
+  "options": {
+    "はい": "iphone11orxx",
+    "いいえ": "iphone11proseries"
+  }
+},
+
+"iphone11proseries": {
+  "question": "画面のサイズは？",
+  "image": "",
+  "span": "機種名にPlusがついている→大きい",
+  "credit": "",
+  "options": {
+    "普通": "iphone11pro",
+    "大きい": "iphone11promax"
+  }
+},
+
+"iphone11orxx": {
+  "question": "フラッシュの位置は縦に並んでいる２つのレンズの右側？",
+  "image": "/pic/iphone/11.jpg",
+  "span": "フラッシュの位置がレンズの右側のスマホ",
+  "credit": "Images © Apple Inc.",
+  "options": {
+    "はい": "iphone11",
+    "いいえ": "xs_check"
+  }
+},
+
+"xs_check": {
+  "question": "最終対応OSはiOS 18？",
+  "image": "/pic/iphone/ios18.png",
+  "span": "iOS18",
+  "credit": "",
+  "options": {
+    "はい": "xs_size",
+    "いいえ": "iphoneX"
+  }
+},
+
+"xs_size": {
+  "question": "画面のサイズは？",
+  "image": "",
+  "span": "機種名にPlusがついている→大きい",
+  "credit": "",
+  "options": {
+    "普通": "iphoneXs",
+    "大きい": "iphoneXsmax"
+  }
+},
+
+"flat_camera_count": {
+  "question": "背面のカメラは1つ？",
+  "image": "/pic/iphone/e.jpg",
+  "span": "背面のカメラが1つの機種。",
+  "credit": "Images © Apple Inc.",
+  "options": {
+    "はい": "cam_control",
+    "いいえ": "flat_cam_2"
+  }
+},
+
+"cam_control": {
+  "question": "カメラコントロール（側面にあるカメラ操作するやつ）がある？",
+  "image": "/pic/iphone/cam_control.png",
+  "span": "サイドボタンの下にあるボタンがカメラコントロール。",
+  "credit": "Images © Apple Inc.",
+  "options": {
+    "はい": "iphoneair",
+    "いいえ": "iphone16eor17e"
+  }
+},
+
+"iphone16eor17e": {
+  "question": "MagSafe充電に対応している？(背面が磁石にくっつく？)",
+  "image": "/pic/iphone/mag.png",
+  "span": "この充電器が使えるかどうか",
+  "credit": "Images © Apple Inc.",
+  "options": {
+    "はい": "iphone17e",
+    "いいえ": "iphone16e"
+  }
+},
+"flat_cam_2": {
+  "question": "背面のカメラは2つ？",
+  "image": "/pic/iphone/17.jpg",
+  "span": "背面カメラが2つの機種。",
+  "credit": "Images © Apple Inc.",
+  "options": {
+    "はい": "cam_vertical",
+    "いいえ": "dynamic_islandpro"
+  }
+},
+
+"cam_vertical": {
+  "question": "背面のカメラは縦に並んでいる？",
+  "image": "/pic/iphone/17.jpg",
+  "span": "カメラ配置が縦並びの機種。",
+  "credit": "Images © Apple Inc.",
+  "options": {
+    "はい": "cam_control2",
+    "いいえ": "dynamic_island"
+  }
+},
+
+"cam_control2": {
+  "question": "カメラコントロール（側面にあるカメラ操作するやつ）がある？",
+  "image": "/pic/iphone/cam_control.jpg",
+  "span": "サイドボタンの下にあるボタンがカメラコントロール。",
+  "credit": "Images © Apple Inc.",
+  "options": {
+    "はい": "mobiledataesim",
+    "いいえ": "iphone12series"
+  }
+},
+
+"mobiledataesim": {
+  "question": "日本版はeSIMのみ対応で、モバイルデータ通信のときに5G+と表示される？",
+  "image": "/pic/iphone/5g+.jpg",
+  "span": "eSIM専用で、このような表示が出る場合は「はい」",
+  "credit": "© MoRi",
+  "options": {
+    "はい": "iphone17",
+    "いいえ": "iphone16series"
+  }
+},
+
+"iphone16series": {
+  "question": "画面のサイズは？",
+  "image": "",
+  "span": "機種名にPlusがついている→大きい",
+  "credit": "",
+  "options": {
+    "普通": "iphone16",
+    "大きい": "iphone16plus"
+  }
+},
+
+"iphone12series": {
+  "question": "画面のサイズは？",
+  "image": "",
+  "span": "機種名にminiがついている→小さい",
+  "credit": "",
+  "options": {
+    "普通": "iphone12",
+    "小さい": "iphone12mini"
+  }
+},
+
+"dynamic_island": {
+  "question": "Dynamic Island（インカメラが島のようなパンチホールになっているもの）対応機種？",
+  "image": "/pic/iphone/dynamic.jpg",
+  "span": "Dynamic Island",
+  "credit": "© MoRi",
+  "options": {
+    "はい": "iphone15series",
+    "いいえ": "flash_light"
+  }
+},
+
+"flash_light": {
+  "question": "フラッシュライトは◉みたいな形で、丸型のライトの中に丸い発光部分がある？",
+  "image": "/pic/iphone/14.jpg",
+  "span": "上のようなフラッシュライト→「はい」",
+  "credit": "© MoRi",
+  "options": {
+    "はい": "iphone14series",
+    "いいえ": "iphone13series"
+  }
+},
+
+"iphone15series": {
+  "question": "画面のサイズは？",
+  "image": "",
+  "span": "機種名にPlusがついている→大きい",
+  "credit": "",
+  "options": {
+    "普通": "iphone15",
+    "大きい": "iphone15plus"
+  }
+},
+
+"iphone14series": {
+  "question": "画面のサイズは？",
+  "image": "",
+  "span": "機種名にPlusがついている→大きい",
+  "credit": "",
+  "options": {
+    "普通": "iphone14",
+    "大きい": "iphone14plus"
+  }
+},
+
+"iphone13series": {
+  "question": "画面のサイズは？",
+  "image": "",
+  "span": "機種名にminiがついている→小さい",
+  "credit": "",
+  "options": {
+    "普通": "iphone13",
+    "小さい": "iphone13mini"
+  }
+},
+
+"dynamic_islandpro": {
+  "question": "Dynamic Island（インカメラが島のようなパンチホールになっているもの）対応機種？",
+  "image": "/pic/iphone/dynamic.jpg",
+  "span": "Dynamic Island",
+  "credit": "© MoRi",
+  "options": {
+    "はい": "lightning",
+    "いいえ": "notchsize"
+  }
+},
+
+"lightning": {
+  "question": "充電端子はLightning？",
+  "image": "/pic/iphone/lightning.jpg",
+  "span": "Lightning端子",
+  "credit": "Images © Apple Inc.",
+  "options": {
+    "はい": "iphone14proseries",
+    "いいえ": "cam_control3"
+  }
+},
+
+"cam_control3": {
+  "question": "カメラコントロール（側面にあるカメラ操作するやつ）がある？",
+  "image": "/pic/iphone/cam_control.jpg",
+  "span": "サイドボタンの下にあるボタンがカメラコントロール。",
+  "credit": "Images © Apple Inc.",
+  "options": {
+    "はい": "cam_design",
+    "いいえ": "iphone15proseries"
+  }
+},
+
+"cam_design": {
+  "question": "フラッシュとLiDARスキャナ（黒い点みたいなやつ）が背面の右側にあって、筐体がアルミでできている？",
+  "image": "/pic/iphone/17p.jpg",
+  "span": "画像のようなデザイン→「はい」",
+  "credit": "Images © Apple Inc.",
+  "options": {
+    "はい": "iphone17proseries",
+    "いいえ": "iphone16proseries"
+  }
+},
+
+"iphone14proseries": {
+  "question": "画面のサイズは？",
+  "image": "",
+  "span": "機種名にPlusがついている→大きい",
+  "credit": "",
+  "options": {
+    "普通": "iphone14pro",
+    "大きい": "iphone14promax"
+  }
+},
+
+"iphone15proseries": {
+  "question": "画面のサイズは？",
+  "image": "",
+  "span": "機種名にPlusがついている→大きい",
+  "credit": "",
+  "options": {
+    "普通": "iphone15pro",
+    "大きい": "iphone15promax"
+  }
+},
+
+"iphone16proseries": {
+  "question": "画面のサイズは？",
+  "image": "",
+  "span": "機種名にPlusがついている→大きい",
+  "credit": "",
+  "options": {
+    "普通": "iphone16pro",
+    "大きい": "iphone16promax"
+  }
+},
+
+"iphone17proseries": {
+  "question": "画面のサイズは？",
+  "image": "",
+  "span": "機種名にPlusがついている→大きい",
+  "credit": "",
+  "options": {
+    "普通": "iphone17pro",
+    "大きい": "iphone17promax"
+  }
+},
+
+"notchsize": {
+  "question": "ノッチが小さく（幅が画面の半分以下）、カメラはマクロ（接写）撮影に対応している？",
+  "image": "/pic/iphone/notch.jpg",
+  "span": "上のようなノッチ→「はい」",
+  "credit": "",
+  "options": {
+    "はい": "iphone13proseries",
+    "いいえ": "iphone12proseries"
+  }
+},
+
+"iphone13proseries": {
+  "question": "画面のサイズは？",
+  "image": "",
+  "span": "機種名にPlusがついている→大きい",
+  "credit": "",
+  "options": {
+    "普通": "iphone13pro",
+    "大きい": "iphone13promax"
+  }
+},
+
+"iphone12proseries": {
+  "question": "画面のサイズは？",
+  "image": "",
+  "span": "機種名にPlusがついている→大きい",
+  "credit": "",
+  "options": {
+    "普通": "iphone12pro",
+    "大きい": "iphone12promax"
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  },
+
+
+
+
+
+
+
+
+  "confirmMessages" : [
+    "もしかして...{result}じゃない？😀",
+    "君のiPhone、 {result}でしょ？😏",
+    "うーん...{result}かな？🤔",
+    "{result}、当たってる気がする！どうかな？😊"
+  ]
+}
