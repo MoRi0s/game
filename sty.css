@@ -176,7 +176,7 @@ nav {
 body {
   padding-top: 100px; /* ヘッダーの高さ分 */
   background:
-    linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.9)),
+    linear-gradient(rgba(0,0,0,0.9), rgba(0,0,0,0.95)),
     url("prof/prf.jpg");
 
   background-size: cover;
@@ -432,28 +432,43 @@ footer{
 }
 
 
-.discord-wrap {
+.discord-wrap{
+
   width: 100%;
+
   display: flex;
+
   justify-content: center;
+
+  align-items: center;
+
+  margin: 0 auto;
+
   padding: 0 12px;
+
   box-sizing: border-box;
-  overflow: hidden;
+
 }
 
-.discord-widget {
+.discord-widget{
+
   width: 100%;
   max-width: 600px;
   height: 600px;
   border: none;
   display: block;
+  margin: 0 auto;
+
 }
 
-@media (max-width: 768px) {
-  .discord-widget {
+@media (max-width: 768px){
+
+  .discord-widget{
     height: 400px;
     max-width: 100%;
+
   }
+
 }
 
 .counter{
@@ -476,5 +491,54 @@ footer{
    width: 60%;
     max-height: clamp(50px, 25vw, 150px);
   }
+
+}
+
+.donate-box{
+
+  margin-top: 80px;
+
+  padding: 24px;
+
+  text-align: center;
+
+  border-top:
+    1px solid rgba(255,255,255,.1);
+
+}
+
+.donate-text{
+
+  color: #aaa;
+
+  margin-bottom: 16px;
+
+  font-size: 14px;
+
+}
+
+.donate-btn{
+
+  display: inline-block;
+
+  padding: 12px 22px;
+
+  border-radius: 999px;
+
+  background: #ffffff;
+
+  color: #000;
+
+  font-weight: 700;
+
+  text-decoration: none;
+
+  transition: .2s;
+
+}
+
+.donate-btn:hover{
+
+  transform: scale(1.05);
 
 }

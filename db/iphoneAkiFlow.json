@@ -7,7 +7,7 @@
   "image":"/pic/iphone/model/iphone1.png",
   "span":"iPhone（初代）",
   "credit":"© Rafael Fernandez (From Wikipedia)/CC BY-SA 4.0",
-  "comment":""
+  "comment":"初めて発売されたiPhone。日本では発売されていない。実はアキネーター作者と同い年。"
 },
 
 "iphone3g":{
@@ -15,7 +15,7 @@
   "image":"/pic/iphone/model/iphone3g.png",
   "span":"iPhone 3G",
   "credit":"© Rafael Fernandez (From Wikipedia)/CC BY-SA 4.0",
-  "comment":""
+  "comment":"2つ目のiPhone。名前にもある通り3Gに対応。"
 },
 
 "iphone3gs":{
@@ -23,7 +23,7 @@
   "image":"/pic/iphone/model/iphone3g.png",
   "span":"iPhone 3GS",
   "credit":"© Rafael Fernandez (From Wikipedia)/CC BY-SA 4.0",
-  "comment":""
+  "comment":"3Gより性能がアップ。動作も軽くなった。"
 },
 
 "iphone4":{
@@ -31,7 +31,7 @@
   "image":"/pic/iphone/model/iphone4.png",
   "span":"iPhone 4",
   "credit":"© Rafael Fernandez (From Wikipedia)/CC BY-SA 4.0",
-  "comment":""
+  "comment":"3GSと比べてデザインが大きく変わっている。あとインカメラが付いた。"
 },
 
 "iphone4s":{
@@ -39,7 +39,7 @@
   "image":"/pic/iphone/model/iphone4s.png",
   "span":"iPhone 4S",
   "credit":"© Rafael Fernandez (From Wikipedia)/CC BY-SA 4.0",
-  "comment":""
+  "comment":"Siriに対応。以後、学校でSiriが暴発する時代が始まった。"
 },
 
 "iphone5":{
@@ -47,7 +47,7 @@
   "image":"/pic/iphone/model/iphone5.png",
   "span":"iPhone 5",
   "credit":"© Rafael Fernandez (From Wikipedia)/CC BY-SA 4.0",
-  "comment":""
+  "comment":"デザインが大きく変わった。これのホームボタンにシールを貼る人も少なくはない。"
 },
 
 "iphone5c":{
@@ -55,7 +55,7 @@
   "image":"/pic/iphone/model/iphone5c.png",
   "span":"iPhone 5c",
   "credit":"© Rafael Fernandez (From Wikipedia)/CC BY-SA 4.0",
-  "comment":""
+  "comment":"カラフルで、安い。"
 },
 
 "iphone5s":{
@@ -63,7 +63,7 @@
   "image":"/pic/iphone/model/iphone5s.png",
   "span":"iPhone 5s",
   "credit":"© Rafael Fernandez (From Wikipedia)/CC BY-SA 4.0",
-  "comment":""
+  "comment":"初めてTouch IDを搭載。パスコードから解放されるように。シールは貼れない。"
 },
 
 "iphonese1":{
@@ -71,7 +71,7 @@
   "image":"/pic/iphone/model/iphonese1.png",
   "span":"iPhone SE (第1世代)",
   "credit":"© Rafael Fernandez (From Wikipedia)/CC BY-SA 4.0",
-  "comment":""
+  "comment":"iPhone5sの形をしたばけもの。だがカメラや指紋認証は同期の6sに劣る。あと画面ちっっっっさ。（2023年に使ってた人）"
 },
 
 "iphone6":{
@@ -79,7 +79,7 @@
   "image":"/pic/iphone/model/iphone6.png",
   "span":"iPhone 6",
   "credit":"© Rafael Fernandez (From Wikipedia)/CC BY-SA 4.0",
-  "comment":""
+  "comment":"画面大きい！薄い！すぐ曲がる！爆発する！！！"
 },
 
 "iphone6plus":{
@@ -87,7 +87,7 @@
   "image":"/pic/iphone/model/iphone6plus.png",
   "span":"iPhone 6 Plus",
   "credit":"© Rafael Fernandez (From Wikipedia)/CC BY-SA 4.0",
-  "comment":""
+  "comment":"曲がるのに画面さらにでかくするんですか！？（爆発）"
 },
 
 "iphone6s":{
@@ -95,7 +95,7 @@
   "image":"/pic/iphone/model/iphone6s.png",
   "span":"iPhone 6s",
   "credit":"© Rafael Fernandez (From Wikipedia)/CC BY-SA 4.0",
-  "comment":""
+  "comment":"イヤホンジャックがあった最後の世代。イヤホンジャック、復活してくれ"
 },
 
 "iphone6splus":{
@@ -103,7 +103,7 @@
   "image":"/pic/iphone/model/iphone6splus.png",
   "span":"iPhone 6s Plus",
   "credit":"© Rafael Fernandez (From Wikipedia)/CC BY-SA 4.0",
-  "comment":""
+  "comment":"おー、でかい。あと6s、6s Plus指紋認証が速くなっている。"
 },
 
 "iphone7":{
@@ -111,7 +111,7 @@
   "image":"/pic/iphone/model/iphone7.png",
   "span":"iPhone 7",
   "credit":"© Rafael Fernandez (From Wikipedia)/CC BY-SA 4.0",
-  "comment":""
+  "comment":"この世代からホームボタンが感圧式に。実は爪では押せないんですよ"
 },
 
 "iphone7plus":{
@@ -119,7 +119,7 @@
   "image":"/pic/iphone/model/iphone7plus.png",
   "span":"iPhone 7 Plus",
   "credit":"© Rafael Fernandez (From Wikipedia)/CC BY-SA 4.0",
-  "comment":""
+  "comment":"Plusだけ背面カメラが2個に。Plus優越時代到来。"
 },
 
 "iphone8":{
@@ -127,7 +127,7 @@
   "image":"/pic/iphone/model/iphone8.png",
   "span":"iPhone 8",
   "credit":"© Rafael Fernandez (From Wikipedia)/CC BY-SA 4.0",
-  "comment":""
+  "comment":"ホームボタン付きiPhoneの最高傑作（思想強）だが、iPhoneXのせいで影が薄くなった。"
 },
 
 "iphone8plus":{
@@ -135,7 +135,7 @@
   "image":"/pic/iphone/model/iphone8plus.png",
   "span":"iPhone 8 Plus",
   "credit":"© Rafael Fernandez (From Wikipedia)/CC BY-SA 4.0",
-  "comment":""
+  "comment":"Plus優越時代、終了。"
 },
 
 "iphoneX":{
@@ -143,7 +143,7 @@
   "image":"/pic/iphone/model/iphoneX.png",
   "span":"iPhone X",
   "credit":"© Rafael Fernandez (From Wikipedia)/CC BY-SA 4.0",
-  "comment":""
+  "comment":"ホームボタン、終了。下側がきれいに。"
 },
 
 "iphoneXs":{
@@ -151,7 +151,7 @@
   "image":"/pic/iphone/model/iphoneXs.png",
   "span":"iPhone Xs",
   "credit":"© Rafael Fernandez (From Wikipedia)/CC BY-SA 4.0",
-  "comment":""
+  "comment":"iPhoneXから性能がアップ。作者が欲しいiPhoneランキング第3位。"
 },
 
 "iphoneXsmax":{
@@ -159,7 +159,7 @@
   "image":"/pic/iphone/model/iphoneXs.png",
   "span":"iPhone Xs Max",
   "credit":"© Rafael Fernandez (From Wikipedia)/CC BY-SA 4.0",
-  "comment":""
+  "comment":"画面がでかい！"
 },
 
 "iphoneXR":{
@@ -167,7 +167,7 @@
   "image":"/pic/iphone/model/iphoneXR.png",
   "span":"iPhone XR",
   "credit":"© Rafael Fernandez (From Wikipedia)/CC BY-SA 4.0",
-  "comment":""
+  "comment":"5cぶりのカラフル展開。"
 },
 
 "iphone11":{
@@ -175,7 +175,7 @@
   "image":"/pic/iphone/model/iphone11.png",
   "span":"iPhone 11",
   "credit":"© Rafael Fernandez (From Wikipedia)/CC BY-SA 4.0",
-  "comment":""
+  "comment":"タピオカカメラ到来。ここから今のデザインは始まった"
 },
 
 "iphone11pro":{
@@ -183,7 +183,7 @@
   "image":"/pic/iphone/model/iphone11pro.png",
   "span":"iPhone 11 Pro",
   "credit":"© Rafael Fernandez (From Wikipedia)/CC BY-SA 4.0",
-  "comment":""
+  "comment":"真・タピオカ。"
 },
 
 "iphone11promax":{
@@ -191,7 +191,7 @@
   "image":"/pic/iphone/model/iphone11pro.png",
   "span":"iPhone 11 Pro Max",
   "credit":"© Rafael Fernandez (From Wikipedia)/CC BY-SA 4.0",
-  "comment":""
+  "comment":"でかい！でかい！でかい！"
 },
 
 "iphonese2":{
@@ -199,7 +199,7 @@
   "image":"/pic/iphone/model/iphonese2.png",
   "span":"iPhone SE (第2世代)",
   "credit":"© Rafael Fernandez (From Wikipedia)/CC BY-SA 4.0",
-  "comment":""
+  "comment":"ホームボタン、復活。でもカメラに手振れ補正はつけてね？"
 },
 
 "iphone12":{
@@ -207,7 +207,7 @@
   "image":"/pic/iphone/model/iphone12.png",
   "span":"iPhone 12",
   "credit":"© Rafael Fernandez (From Wikipedia)/CC BY-SA 4.0",
-  "comment":""
+  "comment":"角ばったので、持ちづらくなった。"
 },
 
 "iphone12mini":{
@@ -215,7 +215,7 @@
   "image":"/pic/iphone/model/iphone12.png",
   "span":"iPhone 12 mini",
   "credit":"© Rafael Fernandez (From Wikipedia)/CC BY-SA 4.0",
-  "comment":""
+  "comment":"ちいかわ。"
 },
 
 "iphone12pro":{
@@ -223,7 +223,7 @@
   "image":"/pic/iphone/model/iphone12pro.png",
   "span":"iPhone 12 Pro",
   "credit":"© Rafael Fernandez (From Wikipedia)/CC BY-SA 4.0",
-  "comment":""
+  "comment":"この世代から5Gに対応。あたらしい時代になった。"
 },
 
 "iphone12promax":{
@@ -231,7 +231,7 @@
   "image":"/pic/iphone/model/iphone12pro.png",
   "span":"iPhone 12 Pro Max",
   "credit":"© Rafael Fernandez (From Wikipedia)/CC BY-SA 4.0",
-  "comment":""
+  "comment":"当時の商品画像がめっちゃかっこよかったのを覚えています。"
 },
 
 "iphone13":{
@@ -239,7 +239,7 @@
   "image":"/pic/iphone/model/iphone13.png",
   "span":"iPhone 13",
   "credit":"© Rafael Fernandez (From Wikipedia)/CC BY-SA 4.0",
-  "comment":""
+  "comment":"カメラが斜めになると、カメラの下の方に指がかかるんですよ"
 },
 
 "iphone13mini":{
@@ -247,7 +247,7 @@
   "image":"/pic/iphone/model/iphone13.png",
   "span":"iPhone 13 mini",
   "credit":"© Rafael Fernandez (From Wikipedia)/CC BY-SA 4.0",
-  "comment":""
+  "comment":"ちいかわ第2弾。これ以来、新たなちいかわが出ることはなかった。"
 },
 
 "iphone13pro":{
@@ -255,7 +255,7 @@
   "image":"/pic/iphone/model/iphone13pro.png",
   "span":"iPhone 13 Pro",
   "credit":"© Rafael Fernandez (From Wikipedia)/CC BY-SA 4.0",
-  "comment":""
+  "comment":"マクロ撮影ができるようになった。作者はめっちゃ使うのでこの機能は欲しい。"
 },
 
 "iphone13promax":{
@@ -263,7 +263,7 @@
   "image":"/pic/iphone/model/iphone13pro.png",
   "span":"iPhone 13 Pro Max",
   "credit":"© Rafael Fernandez (From Wikipedia)/CC BY-SA 4.0",
-  "comment":""
+  "comment":"そろそろ君カメラの主張激しすぎない？"
 },
 
 "iphonese3":{
@@ -271,7 +271,7 @@
   "image":"/pic/iphone/model/iphonese3.png",
   "span":"iPhone SE (第3世代)",
   "credit":"© Rafael Fernandez (From Wikipedia)/CC BY-SA 4.0",
-  "comment":""
+  "comment":"作者が欲しいiPhoneランキング第2位。現役で使えてホームボタンがあるから。"
 },
 
 "iphone14":{
@@ -279,7 +279,7 @@
   "image":"/pic/iphone/model/iphone14.png",
   "span":"iPhone 14",
   "credit":"© Rafael Fernandez (From Wikipedia)/CC BY-SA 4.0",
-  "comment":""
+  "comment":"作者が初めて使ったスマホ。なおこの後無事Android派となった。"
 },
 
 "iphone14plus":{
@@ -287,7 +287,7 @@
   "image":"/pic/iphone/model/iphone14.png",
   "span":"iPhone 14 Plus",
   "credit":"© Rafael Fernandez (From Wikipedia)/CC BY-SA 4.0",
-  "comment":""
+  "comment":"でかい。"
 },
 
 "iphone14pro":{
@@ -295,7 +295,7 @@
   "image":"/pic/iphone/model/iphone14pro.png",
   "span":"iPhone 14 Pro",
   "credit":"© Rafael Fernandez (From Wikipedia)/CC BY-SA 4.0",
-  "comment":""
+  "comment":"Dynamic Islandがついている。初めてスマホを買ったとき、実はこっちが欲しかった。"
 },
 
 "iphone14promax":{
@@ -303,14 +303,14 @@
   "image":"/pic/iphone/model/iphone14pro.png",
   "span":"iPhone 14 Pro Max",
   "credit":"© Rafael Fernandez (From Wikipedia)/CC BY-SA 4.0",
-  "comment":""
+  "comment":"性能と画面のサイズがでかい。"
 },
 "iphone15":{
   "result":"iPhone 15",
   "image":"/pic/iphone/model/iphone15.png",
   "span":"iPhone 15",
   "credit":"© Rafael Fernandez (From Wikipedia)/CC BY-SA 4.0",
-  "comment":""
+  "comment":"無印にDynamic Islandが輸入。お願いだからそれを1年前にやってね。"
 },
 
 "iphone15plus":{
@@ -318,7 +318,7 @@
   "image":"/pic/iphone/model/iphone15.png",
   "span":"iPhone 15 Plus",
   "credit":"© Rafael Fernandez (From Wikipedia)/CC BY-SA 4.0",
-  "comment":""
+  "comment":"画面がでかい、値段もでかい。"
 },
 
 "iphone15pro":{
@@ -326,7 +326,7 @@
   "image":"/pic/iphone/model/iphone15pro.png",
   "span":"iPhone 15 Pro",
   "credit":"© Rafael Fernandez (From Wikipedia)/CC BY-SA 4.0",
-  "comment":""
+  "comment":"チタニウムって結局どうなんですか"
 },
 
 "iphone15promax":{
@@ -334,7 +334,7 @@
   "image":"/pic/iphone/model/iphone15pro.png",
   "span":"iPhone 15 Pro Max",
   "credit":"© Rafael Fernandez (From Wikipedia)/CC BY-SA 4.0",
-  "comment":""
+  "comment":"値段が高い。使ってるチタニウムの量も多い。"
 },
 
 "iphone16":{
@@ -342,7 +342,7 @@
   "image":"/pic/iphone/model/iphone16.png",
   "span":"iPhone 16",
   "credit":"© Rafael Fernandez (From Wikipedia)/CC BY-SA 4.0",
-  "comment":""
+  "comment":"カメラコントロールが新登場。カメラの配置もiPhoneXみたいな感じになってよくなった。"
 },
 
 "iphone16plus":{
@@ -350,7 +350,7 @@
   "image":"/pic/iphone/model/iphone16.png",
   "span":"iPhone 16 Plus",
   "credit":"© Rafael Fernandez (From Wikipedia)/CC BY-SA 4.0",
-  "comment":""
+  "comment":"画面がでかい。カメラコントロールは変わらない。"
 },
 
 "iphone16pro":{
@@ -358,7 +358,7 @@
   "image":"/pic/iphone/model/iphone16pro.png",
   "span":"iPhone 16 Pro",
   "credit":"© Rafael Fernandez (From Wikipedia)/CC BY-SA 4.0",
-  "comment":""
+  "comment":"Proにもカメラコントロール。チタニウムでカメラコントロール、良い...ということで作者が欲しいiPhoneランキング第1位。"
 },
 
 "iphone16promax":{
@@ -366,7 +366,7 @@
   "image":"/pic/iphone/model/iphone16pro.png",
   "span":"iPhone 16 Pro Max",
   "credit":"© Rafael Fernandez (From Wikipedia)/CC BY-SA 4.0",
-  "comment":""
+  "comment":"画面がでかい。カメラはクソデカ。"
 },
 
 "iphone16e":{
@@ -374,7 +374,7 @@
   "image":"/pic/iphone/model/iphone16e.png",
   "span":"iPhone 16e",
   "credit":"© Rafael Fernandez (From Wikipedia)/CC BY-SA 4.0",
-  "comment":""
+  "comment":"廉価版登場。でもそのお金でもっといいスマホ買えるよ！"
 },
 
 "iphone17":{
@@ -382,7 +382,7 @@
   "image":"/pic/iphone/model/iphone17.png",
   "span":"iPhone 17",
   "credit":"© Rafael Fernandez (From Wikipedia)/CC BY-SA 4.0",
-  "comment":""
+  "comment":"ディスプレイ120Hzに。これは神。あと修理がしやすくなった。"
 },
 
 "iphoneair":{
@@ -390,7 +390,7 @@
   "image":"/pic/iphone/model/iphoneair.png",
   "span":"iPhone Air",
   "credit":"© Rafael Fernandez (From Wikipedia)/CC BY-SA 4.0",
-  "comment":""
+  "comment":"何をとち狂ったのか、厚さを薄くしてPlusを置き換えた。これで後継機出なかったら笑い者にされるだろう。なおカメラだけ分厚いので、全体の厚さは、Appleが出した迷機であるあの折り畳みiPhone6に負ける。"
 },
 
 "iphone17pro":{
@@ -398,7 +398,7 @@
   "image":"/pic/iphone/model/iphone17pro.png",
   "span":"iPhone 17 Pro",
   "credit":"© Rafael Fernandez (From Wikipedia)/CC BY-SA 4.0",
-  "comment":""
+  "comment":"作者はデザインがあまり好きじゃない。"
 },
 
 "iphone17promax":{
@@ -406,7 +406,7 @@
   "image":"/pic/iphone/model/iphone17pro.png",
   "span":"iPhone 17 Pro Max",
   "credit":"© Rafael Fernandez (From Wikipedia)/CC BY-SA 4.0",
-  "comment":""
+  "comment":"今の時点でのAppleがかんがえたさいきょうのすまほ。"
 },
 
 "iphone17e":{
@@ -414,7 +414,7 @@
   "image":"/pic/iphone/model/iphone17e.png",
   "span":"iPhone 17e",
   "credit":"© Rafael Fernandez (From Wikipedia)/CC BY-SA 4.0",
-  "comment":""
+  "comment":"磁石にくっつくよ！"
 },
 
 

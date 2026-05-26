@@ -466,6 +466,20 @@ if(state.credit){
         questionEl.innerHTML = `
           <div class="result">
 
+             ${
+              state.comment
+              ? `
+              <div class="comment">COMMENT</div>
+                <div class="result-comment">
+                ${state.result}:<br>
+                  ${state.comment}
+                </div>
+              `
+              : ""
+            }
+
+            <br>
+
             <div class="success-message">
               ( ˶¯ ꒳¯˵)⟡ふふ〜ん！特定完了〜！<br>
               君のiPhoneは<br><br>
@@ -479,15 +493,7 @@ if(state.credit){
               なんだね！✨
             </div>
 
-            ${
-              state.comment
-              ? `
-                <div class="result-comment">
-                  ${state.comment}
-                </div>
-              `
-              : ""
-            }
+           
 
           </div>
         `;

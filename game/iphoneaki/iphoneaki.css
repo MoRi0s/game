@@ -242,15 +242,7 @@ body{
 
 }
 
-.result-comment{
-  margin-top: 20px;
 
-  font-size: 15px;
-  line-height: 1.7;
-
-  color:
-    rgba(255,255,255,0.75);
-}
 
 .success-message{
   line-height: 1.8;
@@ -327,4 +319,71 @@ body{
   filter:
     brightness(0)
     invert(1);
+}
+
+.comment{
+
+  margin-top: 20px;
+
+  margin-bottom: 10px;
+
+  padding: 12px 16px;
+
+  font-size: 13px;
+
+  font-weight: 700;
+
+  letter-spacing: .08em;
+
+  text-transform: uppercase;
+
+  color:
+    rgba(255,255,255,0.7);
+
+  background:
+    rgba(255,255,255,0.05);
+
+  border:
+    1px solid rgba(255,255,255,0.12);
+
+  border-bottom: none;
+
+  border-radius:
+    16px 16px 0 0;
+
+}
+
+.result-comment{
+
+  margin-top: -10px;
+
+  padding: 18px 20px;
+
+  font-size: 15px;
+
+  line-height: 1.8;
+
+  color:
+    rgba(255,255,255,0.82);
+
+  background:
+    rgba(255,255,255,0.05);
+
+  border:
+    1px solid rgba(255,255,255,0.12);
+
+  border-top: none;
+
+  border-radius:
+    0 0 16px 16px;
+
+  backdrop-filter:
+    blur(10px);
+
+  -webkit-backdrop-filter:
+    blur(10px);
+
+  box-shadow:
+    0 4px 20px rgba(0,0,0,.2);
+
 }
